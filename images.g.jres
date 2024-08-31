@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAABgZmZmZgYAAJaZmZmZaQBgmZaZmZSZBmCZFhGRRJkGYJkWRJFJmQZgmRYRkUmZBmCZlpmZSZkGYJmWmZlJmQZgmRYRkUmZBmCZFkSRSZkGYJkWEZFEmQZgmZaZmZSZBgCWmZmZmWkAAGBmZmZmBgAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "alien"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAPD//9/d3Q0A8P/f3d3d/QDw/9/d3d0vD/D//xHR/SEP8P8f/9H9IQ/w/x0R0f0hD/Df3d3d/SEP8N/d3d39IQ/w3x0R0f0hD/DfHf/R/SEP8N8dEdH9IQ/w/93d3t0vD4CIiIi+u/4AmJmZmb676QCAiIiIvrsOAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "humans"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAGZmZmZmAABgmZmZmZkGAJZpmZlJmWkAlmkREUmUaQCWaUEUmZRpAJZpERGZlGkAlmmZmZmUaQCWaZmZmZRpAJZpERGZlGkAlmlBFJmUaQCWaRERSZRpAJYpIpJJmWkgIiJExWbGACIiQkS1ZsYMICIiRLVmtgAAACAiAgAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "burn"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
